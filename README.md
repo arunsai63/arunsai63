@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sai Arun Munaganti 👋
 
-### Solution Architect | Full Stack Developer | DevOps | Blockchain Enthusiast
+### Solution Architect | Full Stack Developer | DevOps | Blockchain
 
 </div>
 
@@ -25,7 +25,6 @@ I'm a passionate Solution Architect with over 6 years of experience in full-stac
 ### Trading Automation Platform
 - Developed a trading automation platform from scratch, enabling users to automate their trading strategies.
 - **Technologies**: Python, AWS, Docker
-- **[Link to repository](https://github.com/arunsai63/trading-platform)** *(Replace with actual link if available)*
 
 ### Admin Dashboard Revamp
 - Led the complete revamp of an admin dashboard from ASP.NET to React and .NET Core microservices.
