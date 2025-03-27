@@ -74,5 +74,5 @@ I'm a passionate Solution Architect with over 6 years of experience in full-stac
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 ## Connect with Me
-- **[LinkedIn](https://www.linkedin.com/in/arun-munaganti/)**
+- **[LinkedIn](https://www.linkedin.com/in/arunmunaganti)**
 - **[GitHub](https://github.com/arunsai63)**
