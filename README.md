@@ -20,16 +20,8 @@ I'm a passionate Solution Architect with over 6 years of experience in full-stac
 
 ---
 
-## Featured Projects
-
-### Trading Automation Platform
-- Developed a trading automation platform from scratch, enabling users to automate their trading strategies.
-- **Technologies**: Python, AWS, Docker
-
----
-
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 ## Connect with Me
 - **[LinkedIn](https://www.linkedin.com/in/arunmunaganti)**
-- **[GitHub](https://github.com/arunsai63)**
+
