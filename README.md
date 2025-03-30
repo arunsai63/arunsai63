@@ -13,10 +13,10 @@ I'm a passionate Solution Architect with over 6 years of experience in full-stac
 ## Skills
 
 - **Cloud**: AWS, Azure, Digital Ocean, Firebase
-- **Frontend**: React, JavaScript
-- **Backend**: Python, Node, .NET Core
-- **DevOps**: Docker, CI/CD, Serverless
-- **Blockchain**: Solidity, Web3
+- **Frontend**: React, JavaScript, typescript
+- **Backend**: Python, Node, .NET Core, Rust
+- **DevOps**: AWS, Devops, Docker, CI/CD
+- **Blockchain**: Blackchain, Solidity, Web3
 
 ---
 
@@ -24,4 +24,5 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 ## Connect with Me
 - **[LinkedIn](https://www.linkedin.com/in/arunmunaganti)**
+- **[Website](https://arunsai63.github.io/)**
 
