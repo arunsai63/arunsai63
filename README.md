@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sai Arun Munaganti 👋
 
-### Solution Architect | Full Stack | DevOps | Blockchain
+### Solution Architect | Full Stack | DevOps | Blockchain | AWS
 
 </div>
 
@@ -12,11 +12,11 @@ I'm a passionate Solution Architect with over 6 years of experience in full-stac
 
 ## Skills
 
-- **Cloud**: AWS, Azure, Digital Ocean, Firebase
-- **Frontend**: React, JavaScript, typescript
+- **Cloud**: AWS (expert), Azure, Digital Ocean, Firebase, Supabase
+- **Frontend**: React, JavaScript, Typescript
 - **Backend**: Python, Node, .NET Core, Rust
 - **DevOps**: AWS, Devops, Docker, CI/CD
-- **Blockchain**: Blackchain, Solidity, Web3
+- **Blockchain**: Blockchain, Solidity, Web3
 
 ---
 
