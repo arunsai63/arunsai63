@@ -1,21 +1,21 @@
 <div align="center">
 
-# Hi there, I'm Sai Arun Munaganti 👋
+# Hi there, I'm Arun Munaganti 👋
 
 ### Solution Architect | Full Stack | DevOps | Blockchain | AWS
 
 </div>
 
-I'm a passionate Solution Architect with over 6 years of experience in full-stack development, DevOps, and blockchain technologies. Currently, I lead the engineering team at Echor Tech, where I focus on building scalable backend services, implementing multi-cloud solutions, and driving the product roadmap. I'm also deeply involved in crypto and blockchain projects, and I enjoy mentoring developers and fostering team growth.
+I'm a Broad-Scoped Tech Generalist with over 6 years of experience in full-stack development, DevOps, and blockchain technologies. Currently, I lead the engineering team at Echor Tech, where I focus on building scalable backend services, implementing multi-cloud solutions, and driving the product roadmap. I'm also deeply involved in crypto and blockchain projects, and I enjoy mentoring developers and fostering team growth.
 
 ---
 
 ## Skills
 
+- **Backend**: Python, Node, C# .NET, Rust
 - **Cloud**: AWS (expert), Azure, Digital Ocean, Firebase, Supabase
 - **Frontend**: React, JavaScript, Typescript
-- **Backend**: Python, Node, .NET Core, Rust
-- **DevOps**: AWS, Devops, Docker, CI/CD
+- **DevOps**: AWS native, Docker, CI/CD, IaC
 - **Blockchain**: Blockchain, Solidity, Web3
 
 ---
