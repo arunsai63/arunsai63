@@ -28,4 +28,5 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 - **[Blogs](https://arunsai63.github.io/blogs)**
 - **[Portfolio](https://arunsai63.github.io/portfolio)**
 - **[Resume](https://arunsai63.github.io/resume.pdf)**
+- [Github](https://github.com/arunsai63)
 
