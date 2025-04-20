@@ -25,4 +25,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 ## Connect with Me
 - **[LinkedIn](https://www.linkedin.com/in/arunmunaganti)**
 - **[Website](https://arunsai63.github.io/)**
+- **[Blogs](https://arunsai63.github.io/blogs)**
+- **[Portfolio](https://arunsai63.github.io/portfolio)**
+- **[Resume](https://arunsai63.github.io/resume.pdf)**
 
