@@ -34,4 +34,11 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 - [Hackerrank](https://www.hackerrank.com/profile/arunsai63)
 - [Leetcode](https://leetcode.com/u/arunsai63/)
 
+---
+
+### Most Popular Open Source Contributions
+
+- **[trie.network](https://trie.network)** ([Github](https://github.com/Trie-Network/trie-network-website))
+- [Xell Wallet](https://xellwallet.com/)  ([Github](https://github.com/rubixchain/Xell-wallet))
+- [Verix-AI](https://arunsai63.github.io/verix-ai/) ([Github](https://github.com/arunsai63/verix-ai))
 
