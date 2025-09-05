@@ -6,7 +6,9 @@
 
 </div>
 
-I'm a Broad-Scoped Tech Generalist with around 7 YOE in full-stack development, DevOps, and blockchain technologies. Currently, I lead the engineering team at Echor Tech, where I focus on building scalable backend services, implementing multi-cloud solutions, and driving the product roadmap. I'm also deeply involved in crypto and blockchain projects, and I enjoy mentoring developers and fostering team growth.
+I’m a Broad-Scoped Tech Generalist and Solutions Architect with 7+ years of experience in full-stack development, AWS cloud, DevOps, and blockchain. At Echor Tech, I lead the engineering team, where I architect scalable backend systems, manage end-to-end infrastructure, and oversee product delivery for high-impact projects.
+
+Over the years, I’ve built and scaled platforms that have reached tens of thousands of users and crypto projects with a combined market cap exceeding $50M. Alongside hands-on architecture and engineering, I’ve been responsible for establishing core workflows, mentoring developers, and builing teams from the ground up.
 
 ---
 
@@ -42,3 +44,4 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 - [Xell Wallet](https://xellwallet.com/)  ([Github](https://github.com/rubixchain/Xell-wallet))
 - [Verix-AI](https://arunsai63.github.io/verix-ai/) ([Github](https://github.com/arunsai63/verix-ai))
 
+---
