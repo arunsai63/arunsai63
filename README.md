@@ -32,7 +32,7 @@ I’ve also been responsible for **establishing workflows**, **mentoring develop
 
 ## Connect with Me  
 
-| 🔗 |
+| 🔗 | 🔗 | 
 |-----|-----|
 | **[LinkedIn](https://www.linkedin.com/in/arunmunaganti)** | **[Website](https://arunsai63.github.io/)** |
 | [GitHub](https://github.com/arunsai63) | **[Portfolio](https://arunsai63.github.io/portfolio)** |
