@@ -1,28 +1,28 @@
 <div align="center">
 
-# 👋 Hi there, I'm **Arun Munaganti**
+# Hi there, I'm **Arun Munaganti**
 
-### 🚀 Solutions Architect | Full Stack | DevOps | Blockchain | AWS  
+### Solutions Architect | DSA | Full Stack | DevOps | Blockchain | AWS
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
-I’m a **Broad-Scoped Tech Generalist and Solutions Architect** with **7+ years** of experience in full-stack development, AWS cloud, DevOps, and blockchain.  
+### About Me
+I’m a **Broad-Scoped Tech Generalist and Solutions Architect** with OVER **7+ years** of experience in full-stack development, AWS, DevOps, and blockchain.  
 
 At **Echor Tech**, I lead the engineering team where I:  
 - Architect scalable backend systems  
 - Manage end-to-end infrastructure  
 - Oversee product delivery for high-impact projects  
 
-💡 Over the years, I’ve built and scaled platforms that have reached **tens of thousands of users** and **crypto projects with a combined market cap exceeding $50M**.  
+Over the years, I’ve built and scaled platforms that have reached **tens of thousands of users** and **crypto projects with a combined market cap exceeding $50M**.  
 
 I’ve also been responsible for **establishing workflows**, **mentoring developers**, and **building teams from the ground up**.  
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 | **Backend** | **Cloud** | **Frontend** | **DevOps** | **Blockchain** |
 |-------------|-----------|--------------|------------|----------------|
@@ -30,9 +30,9 @@ I’ve also been responsible for **establishing workflows**, **mentoring develop
 
 ---
 
-## 🤝 Connect with Me  
+## Connect with Me  
 
-| 🌐 | 🔗 |
+| 🔗 |
 |-----|-----|
 | **[LinkedIn](https://www.linkedin.com/in/arunmunaganti)** | **[Website](https://arunsai63.github.io/)** |
 | [GitHub](https://github.com/arunsai63) | **[Portfolio](https://arunsai63.github.io/portfolio)** |
@@ -41,7 +41,7 @@ I’ve also been responsible for **establishing workflows**, **mentoring develop
 
 ---
 
-## 🌟 Most Popular Open Source Contributions  
+## Most Popular Open Source Contributions  
 
 | Project | Links |
 |---------|-------|
@@ -50,5 +50,3 @@ I’ve also been responsible for **establishing workflows**, **mentoring develop
 | **[Verix-AI](https://arunsai63.github.io/verix-ai/)** | [GitHub](https://github.com/arunsai63/verix-ai) |
 
 ---
-
-✨ I'm always open to new opportunities and collaborations — feel free to reach out!
